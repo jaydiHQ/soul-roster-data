@@ -9,24 +9,6 @@
      "name": "Leader",
      "people": [
       {
-       "id": "d357a03929",
-       "name": "Astro",
-       "tag": "",
-       "avatar": ""
-      },
-      {
-       "id": "5d3f668fe4",
-       "name": "Deluxed",
-       "tag": "",
-       "avatar": ""
-      },
-      {
-       "id": "e27446d34f",
-       "name": "Merkzi",
-       "tag": "",
-       "avatar": ""
-      },
-      {
        "id": "c95f25099e",
        "name": "Deluxed",
        "tag": "",
@@ -867,7 +849,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-02T23:51:51.749Z"
+  "lastSync": "2026-11-02T23:56:10.456Z"
  },
- "updatedAt": "2026-11-02T23:56:07.963Z"
+ "updatedAt": "2026-11-02T23:56:10.456Z"
 }
