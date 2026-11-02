@@ -1,0 +1,873 @@
+{
+ "roster": [
+  {
+   "id": "a37a75c48e",
+   "name": "Leadership",
+   "teams": [
+    {
+     "id": "4f1507fdf3",
+     "name": "Leader",
+     "people": [
+      {
+       "id": "d357a03929",
+       "name": "Astro",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "5d3f668fe4",
+       "name": "Deluxed",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "e27446d34f",
+       "name": "Merkzi",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "c95f25099e",
+       "name": "Deluxed",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1173240591686049835",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "5365f2ed01",
+       "name": "Astro",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1091483033699369091",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "5993a68c88",
+       "name": "Merkzi",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1419451971924000848",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    },
+    {
+     "id": "4197609709",
+     "name": "Co-Leader",
+     "people": [
+      {
+       "id": "7d0a296012",
+       "name": "Syko",
+       "tag": "",
+       "avatar": "",
+       "discordId": "723612368185196594",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "753f240ff8",
+       "name": "Jaydi",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1006176894451990538",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    },
+    {
+     "id": "f6bd04b023",
+     "name": "Manager",
+     "people": [
+      {
+       "id": "64422c9486",
+       "name": "Crimson",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1424093018511900793",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "19a5bfbc9e",
+       "name": "Haze",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1162787648600035368",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "bfe669adce",
+       "name": "Hashiira",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1413172761802575904",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    },
+    {
+     "id": "5d349f7138",
+     "name": "Staff",
+     "people": [
+      {
+       "id": "7f7ccd6a0b",
+       "name": "Rufus",
+       "tag": "Lead",
+       "avatar": ""
+      },
+      {
+       "id": "a7789d6a2f",
+       "name": "Kayzee",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "de3ed3a60f",
+       "name": "santii",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1316506211406843995",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "8cf3c1d672",
+       "name": "Wraith",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1485595547581677569",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "060012fec7",
+       "name": "Lelo",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "658e2bf568",
+       "name": "roof us!",
+       "tag": "",
+       "avatar": "",
+       "discordId": "864168757597437972",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "e649632194",
+       "name": "eezyak luoS",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1089095712819650580",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "5c6091c99a",
+       "name": "Winnie",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1496376617705017355",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3d2a0962e9",
+   "name": "Players",
+   "teams": [
+    {
+     "id": "10b20aac66",
+     "name": "NoFlippers",
+     "people": [
+      {
+       "id": "2fa6b0a957",
+       "name": "Nys",
+       "tag": "Lead",
+       "avatar": ""
+      },
+      {
+       "id": "6acf0b3eab",
+       "name": "Lyrqs",
+       "tag": "",
+       "avatar": "",
+       "discordId": "195633079468032000",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "48f2c1cdba",
+       "name": "Mylezzz",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "bf6bd0aa01",
+       "name": "Phntmenace",
+       "tag": "",
+       "avatar": "",
+       "discordId": "412374201584975872",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "dc4e698eb0",
+       "name": "Saph",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "c4bd07b764",
+       "name": "Sawyer",
+       "tag": "",
+       "avatar": "",
+       "discordId": "787809140079853599",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "67a27e2100",
+       "name": "Scrypt",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "bad734a3ef",
+       "name": "Shore",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "998a083245",
+       "name": "bway",
+       "tag": "",
+       "avatar": "",
+       "discordId": "808790996745584655",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "4127af9b57",
+       "name": "Vilex",
+       "tag": "",
+       "avatar": "",
+       "discordId": "245772274102173697",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "5294b0fed3",
+       "name": "Veez",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "b590a376ba",
+       "name": "Maty",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1063536598337200209",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "283c5c1606",
+       "name": "Venn",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "05e1da5176",
+       "name": "Giyu",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "d0387368e4",
+       "name": "Etto",
+       "tag": "",
+       "avatar": "",
+       "discordId": "547154273092239434",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "f74afc071b",
+       "name": "Hadry",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "9f88700872",
+       "name": "Gustavin",
+       "tag": "",
+       "avatar": "",
+       "discordId": "920787253159149679",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "8a44ecc339",
+       "name": "Scryptxd",
+       "tag": "",
+       "avatar": "",
+       "discordId": "589455461124669461",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "1e208b8164",
+       "name": "2saph´s and 1 soul",
+       "tag": "Lead",
+       "avatar": "",
+       "discordId": "1143060477061103706",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "41bbbd4f95",
+       "name": "Giyuu",
+       "tag": "",
+       "avatar": "",
+       "discordId": "693795190686875669",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    },
+    {
+     "id": "dc208c08ef",
+     "name": "Freestylers",
+     "people": [
+      {
+       "id": "34e18bbd35",
+       "name": "Lukiou",
+       "tag": "Lead",
+       "avatar": "",
+       "discordId": "1004820542693593164",
+       "nameSource": "discord",
+       "tagSource": "manual"
+      },
+      {
+       "id": "1ac2e53167",
+       "name": "Frank",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1038123447009673306",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "e06b8bfd22",
+       "name": "Unknown",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "0081958347",
+       "name": "Wosey",
+       "tag": "",
+       "avatar": "",
+       "discordId": "586876060608495657",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "4907548d9f",
+       "name": "Mikeo",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "7a9a325d31",
+       "name": "Secret",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "378efa80b3",
+       "name": "Mouche",
+       "tag": "",
+       "avatar": "",
+       "discordId": "621285107952779265",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "57c245e7f9",
+       "name": "Etto",
+       "tag": "",
+       "avatar": "",
+       "discordId": "547154273092239434",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "bdfb889103",
+       "name": "Unkown",
+       "tag": "",
+       "avatar": "",
+       "discordId": "930517866091020389",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    },
+    {
+     "id": "e49ee4f79b",
+     "name": "Competitive",
+     "people": [
+      {
+       "id": "f8df207dc4",
+       "name": "Entity",
+       "tag": "Lead",
+       "avatar": "",
+       "discordId": "591687431200178180",
+       "nameSource": "discord",
+       "tagSource": "manual"
+      },
+      {
+       "id": "e96349a32c",
+       "name": "Vohmy",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "179679a106",
+       "name": "Cbaz",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1190028812495368306",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "975d9d4831",
+       "name": "Exiled",
+       "tag": "",
+       "avatar": "",
+       "discordId": "700874846040490086",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "3efd2173ff",
+       "name": "Lyquid",
+       "tag": "",
+       "avatar": "",
+       "discordId": "704808051042943126",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "67c24c06b4",
+       "name": "Turrie",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1062768480065175623",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "9030ea256e",
+       "name": "Xenq",
+       "tag": "",
+       "avatar": "",
+       "discordId": "630416341496496160",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ae6219234",
+   "name": "Creators",
+   "teams": [
+    {
+     "id": "7f2b079862",
+     "name": "Creatives",
+     "people": [
+      {
+       "id": "4b04cfd4e9",
+       "name": "Null",
+       "tag": "Lead",
+       "avatar": "",
+       "discordId": "618552418912698394",
+       "nameSource": "discord",
+       "tagSource": "manual"
+      },
+      {
+       "id": "229382d3c4",
+       "name": "bib",
+       "tag": "Lead",
+       "avatar": "",
+       "discordId": "1186196674339672176",
+       "nameSource": "discord",
+       "tagSource": "manual"
+      },
+      {
+       "id": "c9bcda5425",
+       "name": "Lny",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1069295693015027793",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "045456c8d6",
+       "name": "Bazill",
+       "tag": "",
+       "avatar": "",
+       "discordId": "740477147319238756",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "e49d53028c",
+       "name": "Cole",
+       "tag": "",
+       "avatar": "",
+       "discordId": "586361344639500299",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "7110271256",
+       "name": "Quick",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "50d358941e",
+       "name": "Nedia",
+       "tag": "",
+       "avatar": "",
+       "discordId": "374733786480508928",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "445497e5d6",
+       "name": "Leardi",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "c06f0b7c1e",
+       "name": "Brisingr",
+       "tag": "",
+       "avatar": "",
+       "discordId": "727137622379593738",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "5d70057751",
+       "name": "ElecTrozZ",
+       "tag": "",
+       "avatar": "",
+       "discordId": "520582086365675521",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "0c418b7e96",
+       "name": "Rocket",
+       "tag": "",
+       "avatar": "",
+       "discordId": "160138100868251648",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "127e59119a",
+       "name": "9eyes",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "7dab29e96e",
+       "name": "Charm",
+       "tag": "",
+       "avatar": "",
+       "discordId": "317801599802277890",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "e1ea60b4b8",
+       "name": "Fllow",
+       "tag": "",
+       "avatar": "",
+       "discordId": "850020856679497759",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    },
+    {
+     "id": "2d8f0be1a4",
+     "name": "Content",
+     "people": [
+      {
+       "id": "d2be0534b6",
+       "name": "Didi",
+       "tag": "Lead",
+       "avatar": "",
+       "discordId": "1362288053216870476",
+       "nameSource": "discord",
+       "tagSource": "manual"
+      },
+      {
+       "id": "8cbb67a567",
+       "name": "Laylow",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "58aceda7d1",
+       "name": "Kurse",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "fe2fc606e9",
+       "name": "Ryuu",
+       "tag": "",
+       "avatar": "",
+       "discordId": "884407897327550475",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "aab7eaa73e",
+       "name": "Jxz",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1015833926478090290",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "52bebecfc8",
+       "name": "Jxlor",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "9ec53abca2",
+       "name": "FROG66",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1416102512389390456",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    },
+    {
+     "id": "d68029b000",
+     "name": "Media Team",
+     "people": [
+      {
+       "id": "0e4a464598",
+       "name": "Perplex",
+       "tag": "Lead",
+       "avatar": "",
+       "discordId": "1061227514820820993",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "5e2b8ef83c",
+       "name": "Lyriq",
+       "tag": "",
+       "avatar": ""
+      },
+      {
+       "id": "8f7c39458e",
+       "name": "Sean",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1211374625876086844",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "336c40ccae",
+       "name": "Riino",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1521974591080370216",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "news": [
+  {
+   "id": "fd7ba1f706",
+   "date": "2026-11-01",
+   "title": "New website",
+   "text": "Soul has a home on the web: roster, assets and recruitment all in one place."
+  },
+  {
+   "id": "faff359888",
+   "date": "2026-11-01",
+   "title": "Recruitment is open",
+   "text": "Players, competitive, creatives and alternative positions. Apply from the Apply page."
+  }
+ ],
+ "apply": {
+  "intro": "Welcome to the official Team Soul application. Questions? Ask in our Discord.",
+  "positions": [
+   {
+    "id": "149d520431",
+    "name": "Player",
+    "kind": "player",
+    "open": true
+   },
+   {
+    "id": "a5c352e121",
+    "name": "Competitive Player",
+    "kind": "competitive",
+    "open": true
+   },
+   {
+    "id": "0acc72ab8f",
+    "name": "Graphic Designer",
+    "kind": "designer",
+    "open": true
+   },
+   {
+    "id": "63d1650f77",
+    "name": "Video Editor",
+    "kind": "editor",
+    "open": true
+   },
+   {
+    "id": "c99cbf0311",
+    "name": "TikTok / Shorts Editor",
+    "kind": "shorts",
+    "open": true
+   },
+   {
+    "id": "69dbfc774b",
+    "name": "Other",
+    "kind": "other",
+    "open": true
+   }
+  ],
+  "notes": [
+   "We only accept YouTube clip compilations for player applications.",
+   "We only reach out to people selected to move forward. If you don't hear back, your application wasn't chosen this time.",
+   "Content Creator and Social Media Manager are invite only and can't be applied for."
+  ]
+ },
+ "discord": "https://discord.gg/BkZ4dRZWXZ",
+ "assets": {
+  "items": [
+   {
+    "id": "dc7c603b23",
+    "name": "Logo",
+    "desc": "2D logo, transparent PNG",
+    "preview": "/logo.png",
+    "bg": "checker",
+    "url": "https://drive.google.com/uc?export=download&id=1Np3Ex1skSNNwc0Zz_vaV4uPXqil6IyYS"
+   },
+   {
+    "id": "da3f9d9b0e",
+    "name": "Logo source file",
+    "desc": "Photoshop PSD, 7.1 MB",
+    "preview": "/logo.png",
+    "bg": "purple",
+    "url": "https://drive.google.com/uc?export=download&id=1YMS9hUsq5eRvSY5R_BYR-3LREinI2G2z"
+   }
+  ]
+ },
+ "sync": {
+  "links": [
+   {
+    "roleId": "1352837018673221642",
+    "roleName": "Overall Leader",
+    "teamId": "4f1507fdf3"
+   },
+   {
+    "roleId": "1352690108121219152",
+    "roleName": "Co-Leader",
+    "teamId": "4197609709"
+   },
+   {
+    "roleId": "1453526694718734557",
+    "roleName": "Management",
+    "teamId": "f6bd04b023"
+   },
+   {
+    "roleId": "1353778587181908018",
+    "roleName": "Staff",
+    "teamId": "5d349f7138"
+   },
+   {
+    "roleId": "1566590162237133000",
+    "roleName": "No Flipper",
+    "teamId": "10b20aac66"
+   },
+   {
+    "roleId": "1566590236597952623",
+    "roleName": "Freestyler",
+    "teamId": "dc208c08ef"
+   },
+   {
+    "roleId": "1566590267832672357",
+    "roleName": "Competitive",
+    "teamId": "e49ee4f79b"
+   },
+   {
+    "roleId": "1566590336686624989",
+    "roleName": "Designer",
+    "teamId": "7f2b079862"
+   },
+   {
+    "roleId": "1566590382454865940",
+    "roleName": "Editor",
+    "teamId": "7f2b079862"
+   },
+   {
+    "roleId": "1566590433864450089",
+    "roleName": "Content",
+    "teamId": "2d8f0be1a4"
+   },
+   {
+    "roleId": "1566590570044989460",
+    "roleName": "Media",
+    "teamId": "d68029b000"
+   }
+  ],
+  "tags": [
+   {
+    "roleId": "1353716666533548092",
+    "roleName": "Leads",
+    "tag": "Lead"
+   }
+  ],
+  "lastSync": "2026-11-02T23:51:51.749Z"
+ },
+ "updatedAt": "2026-11-02T23:56:07.963Z"
+}
