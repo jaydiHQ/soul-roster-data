@@ -511,6 +511,33 @@
        "discordId": "1424093018511900793",
        "nameSource": "discord",
        "tagSource": "discord"
+      },
+      {
+       "id": "8362c29840",
+       "name": "Nedia",
+       "tag": "",
+       "avatar": "",
+       "discordId": "374733786480508928",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "dd21afb6a6",
+       "name": "Beans",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1105877504230707221",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "8c850c138c",
+       "name": "Petrixx",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1419769662165483595",
+       "nameSource": "discord",
+       "tagSource": "discord"
       }
      ]
     },
@@ -743,7 +770,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-03T02:05:46.138Z"
+  "lastSync": "2026-11-03T02:10:38.623Z"
  },
- "updatedAt": "2026-11-03T02:10:32.202Z"
+ "updatedAt": "2026-11-03T02:10:38.623Z"
 }
