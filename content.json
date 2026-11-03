@@ -228,7 +228,10 @@
        "id": "5294b0fed3",
        "name": "Veez",
        "tag": "",
-       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/2c0c0e52483648fff2ce0ec66d494b26.jpg"
+       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/2c0c0e52483648fff2ce0ec66d494b26.jpg",
+       "discordId": "493272484796432414",
+       "nameSource": "discord",
+       "tagSource": "discord"
       },
       {
        "id": "b590a376ba",
@@ -857,7 +860,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-03T02:01:25.572Z"
+  "lastSync": "2026-11-03T02:04:12.941Z"
  },
- "updatedAt": "2026-11-03T02:01:25.572Z"
+ "updatedAt": "2026-11-03T02:04:12.941Z"
 }
