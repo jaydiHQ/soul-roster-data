@@ -102,7 +102,7 @@
        "id": "de3ed3a60f",
        "name": "santii",
        "tag": "",
-       "avatar": "",
+       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/6a405f982875c6ebe23c676898c5a33e.jpg",
        "discordId": "1316506211406843995",
        "nameSource": "discord",
        "tagSource": "discord"
@@ -156,12 +156,6 @@
      "name": "NoFlippers",
      "people": [
       {
-       "id": "2fa6b0a957",
-       "name": "Nys",
-       "tag": "Lead",
-       "avatar": ""
-      },
-      {
        "id": "6acf0b3eab",
        "name": "Lyrqs",
        "tag": "",
@@ -169,12 +163,6 @@
        "discordId": "195633079468032000",
        "nameSource": "discord",
        "tagSource": "discord"
-      },
-      {
-       "id": "48f2c1cdba",
-       "name": "Mylezzz",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "bf6bd0aa01",
@@ -186,12 +174,6 @@
        "tagSource": "discord"
       },
       {
-       "id": "dc4e698eb0",
-       "name": "Saph",
-       "tag": "",
-       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/6a9de32f98fdb7221e2416486ab3b11d.jpg"
-      },
-      {
        "id": "c4bd07b764",
        "name": "Sawyer",
        "tag": "",
@@ -199,12 +181,6 @@
        "discordId": "787809140079853599",
        "nameSource": "discord",
        "tagSource": "discord"
-      },
-      {
-       "id": "bad734a3ef",
-       "name": "Shore",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "998a083245",
@@ -243,12 +219,6 @@
        "tagSource": "discord"
       },
       {
-       "id": "283c5c1606",
-       "name": "Venn",
-       "tag": "",
-       "avatar": ""
-      },
-      {
        "id": "d0387368e4",
        "name": "Etto",
        "tag": "",
@@ -283,11 +253,11 @@
       },
       {
        "id": "1e208b8164",
-       "name": "2saph´s and 1 soul",
+       "name": "Saph",
        "tag": "Lead",
-       "avatar": "",
+       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/72947f4af1813fcffd8b0399c2419d28.jpg",
        "discordId": "1143060477061103706",
-       "nameSource": "discord",
+       "nameSource": "manual",
        "tagSource": "discord"
       },
       {
@@ -331,12 +301,6 @@
        "discordId": "586876060608495657",
        "nameSource": "discord",
        "tagSource": "discord"
-      },
-      {
-       "id": "4907548d9f",
-       "name": "Mikeo",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "7a9a325d31",
@@ -487,27 +451,12 @@
       },
       {
        "id": "7110271256",
-       "name": "quick",
+       "name": "Quick",
        "tag": "",
        "avatar": "",
        "discordId": "903773628540276757",
-       "nameSource": "discord",
+       "nameSource": "manual",
        "tagSource": "discord"
-      },
-      {
-       "id": "50d358941e",
-       "name": "Nedia",
-       "tag": "",
-       "avatar": "",
-       "discordId": "374733786480508928",
-       "nameSource": "discord",
-       "tagSource": "discord"
-      },
-      {
-       "id": "445497e5d6",
-       "name": "Leardi",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "5d70057751",
@@ -526,12 +475,6 @@
        "discordId": "160138100868251648",
        "nameSource": "discord",
        "tagSource": "discord"
-      },
-      {
-       "id": "127e59119a",
-       "name": "9eyes",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "7dab29e96e",
@@ -561,29 +504,11 @@
        "tagSource": "discord"
       },
       {
-       "id": "42c754dae2",
-       "name": "Beans",
-       "tag": "",
-       "avatar": "",
-       "discordId": "1105877504230707221",
-       "nameSource": "discord",
-       "tagSource": "discord"
-      },
-      {
        "id": "b7c06b49af",
        "name": "Crimson",
        "tag": "",
        "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/c336f2ffdea8f548e1d0997491a67682.jpg",
        "discordId": "1424093018511900793",
-       "nameSource": "discord",
-       "tagSource": "discord"
-      },
-      {
-       "id": "bfd30c7f9e",
-       "name": "Petrixx",
-       "tag": "",
-       "avatar": "",
-       "discordId": "1419769662165483595",
        "nameSource": "discord",
        "tagSource": "discord"
       }
@@ -603,18 +528,6 @@
        "tagSource": "manual"
       },
       {
-       "id": "8cbb67a567",
-       "name": "Laylow",
-       "tag": "",
-       "avatar": ""
-      },
-      {
-       "id": "58aceda7d1",
-       "name": "Kurse",
-       "tag": "",
-       "avatar": ""
-      },
-      {
        "id": "fe2fc606e9",
        "name": "Ryuu",
        "tag": "",
@@ -631,12 +544,6 @@
        "discordId": "1015833926478090290",
        "nameSource": "discord",
        "tagSource": "discord"
-      },
-      {
-       "id": "52bebecfc8",
-       "name": "Jxlor",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "9ec53abca2",
@@ -661,12 +568,6 @@
        "discordId": "1061227514820820993",
        "nameSource": "discord",
        "tagSource": "discord"
-      },
-      {
-       "id": "5e2b8ef83c",
-       "name": "Lyriq",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "8f7c39458e",
@@ -844,5 +745,5 @@
   ],
   "lastSync": "2026-11-03T02:05:46.138Z"
  },
- "updatedAt": "2026-11-03T02:05:46.138Z"
+ "updatedAt": "2026-11-03T02:10:32.202Z"
 }
