@@ -493,9 +493,12 @@
       },
       {
        "id": "7110271256",
-       "name": "Quick",
+       "name": "quick",
        "tag": "",
-       "avatar": ""
+       "avatar": "",
+       "discordId": "903773628540276757",
+       "nameSource": "discord",
+       "tagSource": "discord"
       },
       {
        "id": "50d358941e",
@@ -560,6 +563,42 @@
        "tag": "",
        "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/e75bb261254ae64565d2f91180c4dc3a.jpg",
        "discordId": "850020856679497759",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "bcb8f327ab",
+       "name": "Zenny",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1207318521684693025",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "42c754dae2",
+       "name": "Beans",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1105877504230707221",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "b7c06b49af",
+       "name": "Crimson",
+       "tag": "",
+       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/c336f2ffdea8f548e1d0997491a67682.jpg",
+       "discordId": "1424093018511900793",
+       "nameSource": "discord",
+       "tagSource": "discord"
+      },
+      {
+       "id": "bfd30c7f9e",
+       "name": "Petrixx",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1419769662165483595",
        "nameSource": "discord",
        "tagSource": "discord"
       }
@@ -818,7 +857,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-03T00:25:54.087Z"
+  "lastSync": "2026-11-03T02:01:25.572Z"
  },
- "updatedAt": "2026-11-03T02:01:23.482Z"
+ "updatedAt": "2026-11-03T02:01:25.572Z"
 }
