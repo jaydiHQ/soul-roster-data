@@ -99,18 +99,6 @@
      "name": "Staff",
      "people": [
       {
-       "id": "7f7ccd6a0b",
-       "name": "Rufus",
-       "tag": "Lead",
-       "avatar": ""
-      },
-      {
-       "id": "a7789d6a2f",
-       "name": "Kayzee",
-       "tag": "",
-       "avatar": ""
-      },
-      {
        "id": "de3ed3a60f",
        "name": "santii",
        "tag": "",
@@ -136,20 +124,20 @@
       },
       {
        "id": "658e2bf568",
-       "name": "roof us!",
-       "tag": "",
+       "name": "Rufus",
+       "tag": "Lead",
        "avatar": "",
        "discordId": "864168757597437972",
-       "nameSource": "discord",
-       "tagSource": "discord"
+       "nameSource": "manual",
+       "tagSource": "manual"
       },
       {
        "id": "e649632194",
-       "name": "eezyak luoS",
+       "name": "Kayzee",
        "tag": "",
        "avatar": "",
        "discordId": "1089095712819650580",
-       "nameSource": "discord",
+       "nameSource": "manual",
        "tagSource": "discord"
       },
       {
@@ -219,12 +207,6 @@
        "tagSource": "discord"
       },
       {
-       "id": "67a27e2100",
-       "name": "Scrypt",
-       "tag": "",
-       "avatar": ""
-      },
-      {
        "id": "bad734a3ef",
        "name": "Shore",
        "tag": "",
@@ -270,12 +252,6 @@
        "avatar": ""
       },
       {
-       "id": "05e1da5176",
-       "name": "Giyu",
-       "tag": "",
-       "avatar": ""
-      },
-      {
        "id": "d0387368e4",
        "name": "Etto",
        "tag": "",
@@ -301,11 +277,11 @@
       },
       {
        "id": "8a44ecc339",
-       "name": "Scryptxd",
+       "name": "Scrypt",
        "tag": "",
        "avatar": "",
        "discordId": "589455461124669461",
-       "nameSource": "discord",
+       "nameSource": "manual",
        "tagSource": "discord"
       },
       {
@@ -319,11 +295,11 @@
       },
       {
        "id": "41bbbd4f95",
-       "name": "Giyuu",
+       "name": "Giyu",
        "tag": "",
        "avatar": "",
        "discordId": "693795190686875669",
-       "nameSource": "discord",
+       "nameSource": "manual",
        "tagSource": "discord"
       }
      ]
@@ -349,12 +325,6 @@
        "discordId": "1038123447009673306",
        "nameSource": "discord",
        "tagSource": "discord"
-      },
-      {
-       "id": "e06b8bfd22",
-       "name": "Unknown",
-       "tag": "",
-       "avatar": ""
       },
       {
        "id": "0081958347",
@@ -397,11 +367,11 @@
       },
       {
        "id": "bdfb889103",
-       "name": "Unkown",
+       "name": "Unknown",
        "tag": "",
        "avatar": "",
        "discordId": "930517866091020389",
-       "nameSource": "discord",
+       "nameSource": "manual",
        "tagSource": "discord"
       }
      ]
@@ -851,5 +821,5 @@
   ],
   "lastSync": "2026-11-02T23:56:10.456Z"
  },
- "updatedAt": "2026-11-03T00:08:16.693Z"
+ "updatedAt": "2026-11-03T00:11:33.985Z"
 }
