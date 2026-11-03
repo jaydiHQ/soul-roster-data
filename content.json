@@ -354,15 +354,6 @@
        "tagSource": "discord"
       },
       {
-       "id": "57c245e7f9",
-       "name": "Etto",
-       "tag": "",
-       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/f425b6c0447cbeed6500a90849fb30eb.jpg",
-       "discordId": "547154273092239434",
-       "nameSource": "discord",
-       "tagSource": "discord"
-      },
-      {
        "id": "bdfb889103",
        "name": "Unknown",
        "tag": "",
@@ -860,7 +851,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-03T02:04:12.941Z"
+  "lastSync": "2026-11-03T02:05:03.163Z"
  },
- "updatedAt": "2026-11-03T02:04:12.941Z"
+ "updatedAt": "2026-11-03T02:05:03.164Z"
 }
