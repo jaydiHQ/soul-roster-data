@@ -21,7 +21,7 @@
        "id": "5365f2ed01",
        "name": "Astro",
        "tag": "",
-       "avatar": "",
+       "avatar": "https://raw.githubusercontent.com/jaydiHQ/soul-roster-data/main/avatars/78ba0200c018871d98cc4b874fa5ab44.jpg",
        "discordId": "1091483033699369091",
        "nameSource": "discord",
        "tagSource": "discord"
@@ -851,5 +851,5 @@
   ],
   "lastSync": "2026-11-02T23:56:10.456Z"
  },
- "updatedAt": "2026-11-02T23:56:10.456Z"
+ "updatedAt": "2026-11-03T00:08:16.693Z"
 }
