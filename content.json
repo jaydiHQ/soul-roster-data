@@ -117,12 +117,6 @@
        "tagSource": "discord"
       },
       {
-       "id": "060012fec7",
-       "name": "Lelo",
-       "tag": "",
-       "avatar": ""
-      },
-      {
        "id": "658e2bf568",
        "name": "Rufus",
        "tag": "Lead",
@@ -142,7 +136,7 @@
       },
       {
        "id": "5c6091c99a",
-       "name": "Winnie",
+       "name": "Lelo",
        "tag": "",
        "avatar": "",
        "discordId": "1496376617705017355",
@@ -819,7 +813,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-02T23:56:10.456Z"
+  "lastSync": "2026-11-03T00:25:42.922Z"
  },
- "updatedAt": "2026-11-03T00:11:33.985Z"
+ "updatedAt": "2026-11-03T00:25:42.923Z"
 }
