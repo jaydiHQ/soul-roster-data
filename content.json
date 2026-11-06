@@ -268,6 +268,15 @@
        "discordId": "693795190686875669",
        "nameSource": "manual",
        "tagSource": "discord"
+      },
+      {
+       "id": "e6ea5acbd9",
+       "name": "Sets",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1163329048936722525",
+       "nameSource": "discord",
+       "tagSource": "discord"
       }
      ]
     },
@@ -776,7 +785,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-05T03:04:17.894Z"
+  "lastSync": "2026-11-06T23:18:08.880Z"
  },
- "updatedAt": "2026-11-05T03:04:17.895Z"
+ "updatedAt": "2026-11-06T23:18:08.880Z"
 }
