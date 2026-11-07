@@ -55,6 +55,10 @@
        "name": "Jaydi",
        "tag": "",
        "avatar": "",
+       "links": [
+        "https://jaydihq.com/",
+        "https://madeinheavenfx.com/"
+       ],
        "discordId": "1006176894451990538",
        "nameSource": "discord",
        "tagSource": "discord"
@@ -787,5 +791,5 @@
   ],
   "lastSync": "2026-11-06T23:18:08.880Z"
  },
- "updatedAt": "2026-11-06T23:18:08.880Z"
+ "updatedAt": "2026-11-07T16:28:18.588Z"
 }
