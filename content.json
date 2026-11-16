@@ -551,6 +551,15 @@
        "discordId": "1419769662165483595",
        "nameSource": "discord",
        "tagSource": "discord"
+      },
+      {
+       "id": "c33fad8f1d",
+       "name": "opium",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1397307763360796733",
+       "nameSource": "discord",
+       "tagSource": "discord"
       }
      ]
     },
@@ -789,7 +798,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-16T00:32:55.149Z"
+  "lastSync": "2026-11-16T12:38:27.152Z"
  },
- "updatedAt": "2026-11-16T00:32:55.154Z"
+ "updatedAt": "2026-11-16T12:38:27.152Z"
 }
