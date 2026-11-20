@@ -560,6 +560,15 @@
        "discordId": "1397307763360796733",
        "nameSource": "discord",
        "tagSource": "discord"
+      },
+      {
+       "id": "78f5f9db99",
+       "name": "Lyriq",
+       "tag": "",
+       "avatar": "",
+       "discordId": "1145890071699009727",
+       "nameSource": "discord",
+       "tagSource": "discord"
       }
      ]
     },
@@ -798,7 +807,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-16T20:18:43.877Z"
+  "lastSync": "2026-11-20T16:30:07.534Z"
  },
- "updatedAt": "2026-11-16T20:18:43.878Z"
+ "updatedAt": "2026-11-20T16:30:07.537Z"
 }
