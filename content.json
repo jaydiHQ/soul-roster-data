@@ -569,6 +569,15 @@
        "discordId": "1145890071699009727",
        "nameSource": "discord",
        "tagSource": "discord"
+      },
+      {
+       "id": "320c1b34d8",
+       "name": "Jaelo",
+       "tag": "",
+       "avatar": "",
+       "discordId": "399036593492721674",
+       "nameSource": "discord",
+       "tagSource": "discord"
       }
      ]
     },
@@ -807,7 +816,7 @@
     "tag": "Lead"
    }
   ],
-  "lastSync": "2026-11-20T16:30:40.101Z"
+  "lastSync": "2026-11-21T19:29:40.674Z"
  },
- "updatedAt": "2026-11-20T16:30:40.102Z"
+ "updatedAt": "2026-11-21T19:29:40.676Z"
 }
